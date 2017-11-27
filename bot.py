@@ -17,11 +17,8 @@ def main():
 
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", greet_user))
-<<<<<<< HEAD
     dp.add_handler(CommandHandler("planet", def_planet))
-=======
     dp.add_handler(CommandHandler("planet", def_planet, pass_args=True))
->>>>>>> e889ad18241858bda889423e18bb585b195321bd
     dp.add_handler(MessageHandler(Filters.text, talk_to_me))
 
 
@@ -38,23 +35,18 @@ def main():
     updater.start_polling()
     updater.idle()
 
-<<<<<<< HEAD
 
 
-def def_planet(bot, update):
-    planeta = "Введи планету"
-    print(ephem.constellation(planeta))
-    update.message.reply_text(planeta)
 
 
-=======
+
 def def_planet(bot, update, args):
     planet = args[0]
     planet_name = getattr(ephem, planet)(ephem.now())
     cons = ephem.constellation(planet_name)[1]
     update.message.reply_text(cons)
    
->>>>>>> e889ad18241858bda889423e18bb585b195321bd
+
 
 
 def greet_user(bot, update):
