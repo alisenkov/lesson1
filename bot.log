@@ -690,6 +690,7 @@ Traceback (most recent call last):
 NameError: name 'answer' is not defined
 telegram.ext.updater - WARNING - Exiting immediately!
 telegram.ext.updater - WARNING - Exiting immediately!
+<<<<<<< HEAD
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
@@ -701,3 +702,5 @@ telegram.ext.updater - WARNING - Exiting immediately!
 root - INFO - dsadsa
 telegram.ext.updater - WARNING - Exiting immediately!
 >>>>>>> e889ad18241858bda889423e18bb585b195321bd
+=======
+>>>>>>> 36c5444a0c40ac106e9dadb3e4ccecfeda634834
