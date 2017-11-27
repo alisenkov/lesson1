@@ -704,6 +704,7 @@ telegram.ext.updater - WARNING - Exiting immediately!
 >>>>>>> e889ad18241858bda889423e18bb585b195321bd
 =======
 >>>>>>> 36c5444a0c40ac106e9dadb3e4ccecfeda634834
+<<<<<<< HEAD
 root - INFO - dasda
 telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
 Traceback (most recent call last):
@@ -727,3 +728,14 @@ Traceback (most recent call last):
   File "/home/ubuntu/lesson1/env/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
     return self.callback(dispatcher.bot, update, **optional_args)
 TypeError: def_planet() missing 1 required positional argument: 'args'
+=======
+root - INFO - 21234
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: def_planet() missing 1 required positional argument: 'args'
+telegram.ext.updater - WARNING - Exiting immediately!
+>>>>>>> cc8c6ffda8cbb6e4aaf6a325d5f861f8bdf4d06c

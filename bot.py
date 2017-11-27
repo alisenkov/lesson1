@@ -17,7 +17,6 @@ def main():
 
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", greet_user))
-    dp.add_handler(CommandHandler("planet", def_planet))
     dp.add_handler(CommandHandler("planet", def_planet, pass_args=True))
     dp.add_handler(MessageHandler(Filters.text, talk_to_me))
 
