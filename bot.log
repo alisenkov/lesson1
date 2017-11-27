@@ -63,6 +63,7 @@ root - INFO - dsfds
 root - INFO - dsadsa
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - WARNING - Exiting immediately!
+<<<<<<< HEAD
 root - INFO - Ð¿Ð°
 root - INFO - 888Ð¾
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
@@ -109,3 +110,594 @@ Traceback (most recent call last):
   File "bot.py", line 29, in def_planet
     print(ephem.constellation(planeta))
 NameError: name 'ephem' is not defined
+=======
+root - INFO - das
+root - INFO - dsada
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 36, in def_planet
+    pritn(args)
+NameError: name 'pritn' is not defined
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+root - INFO - nj
+root - INFO - jnjk'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+root - INFO - dsada
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planeta))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsa
+root - INFO - dsa
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    #print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    #print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsa
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsa
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(args))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args)
+ValueError: the sequence specifying a position must have exactly two coordinates
+root - INFO - dsadsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args)
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args('2017/01/01'))
+TypeError: 'list' object is not callable
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args('2017/01/01'))
+TypeError: 'list' object is not callable
+root - INFO - dsa
+root - INFO - das
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args('2017/01/01'))
+TypeError: 'list' object is not callable
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args('2017/01/01'))
+TypeError: 'list' object is not callable
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(args('2017/01/01'))
+TypeError: 'list' object is not callable
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsad
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    planet = ephem.args('2017/01/01')
+AttributeError: 'module' object has no attribute 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    planet = ephem.args('2017/01/01')
+AttributeError: 'module' object has no attribute 'args'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    planet = ephem.args('2017/01/01')
+AttributeError: 'module' object has no attribute 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    planet = ephem.args('2017/01/01')
+AttributeError: 'module' object has no attribute 'args'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 37, in def_planet
+    planet = ephem.str(args)('1970')
+AttributeError: 'module' object has no attribute 'str'
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - nkm
+root - INFO - km
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 37, in def_planet
+    planet = args[0]
+IndexError: list index out of range
+root - INFO - dsa
+root - INFO - dsadsadsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 37, in def_planet
+    planet = args[0]
+IndexError: list index out of range
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsadsa
+root - INFO - Mars
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(planet)
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(planet)
+ValueError: the sequence specifying a position must have exactly two coordinates
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    answer = ephem.constellation(planet)
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 37, in def_planet
+    planet = args[0]
+IndexError: list index out of range
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 40, in def_planet
+    update.message.reply_text(answer)
+NameError: name 'answer' is not defined
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 41, in def_planet
+    print(answer)
+NameError: name 'answer' is not defined
+root - INFO - dsa
+root - INFO - dsadsa
+root - INFO - dsa
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 38, in def_planet
+    print(ephem.constellation(planet))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 42, in def_planet
+    print(ephem.constellation(planet))
+ValueError: the sequence specifying a position must have exactly two coordinates
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 42, in def_planet
+    planet_name = ephem.planet(now_time)
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 42, in def_planet
+    planet_name = ephem.planet(now_time)
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in def_planet
+    planet_name = ephem.planet(now_time)
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in def_planet
+    planet_name = ephem.planet(now_time)
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in def_planet
+    planet_name = ephem.planet(now_time)
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in def_planet
+    planet_name = ephem.planet(ephem.now())
+AttributeError: 'module' object has no attribute 'planet'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in def_planet
+    planet_name = ephem.planet(ephem.now())
+AttributeError: 'module' object has no attribute 'planet'
+root - INFO - dsd
+root - INFO - dsad
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 48, in def_planet
+    update.message.reply_text(planet_name)
+  File "C:\Python34\lib\site-packages\telegram\message.py", line 421, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 82, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 266, in post
+    data = json.dumps(data)
+  File "C:\Python34\lib\json\__init__.py", line 230, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Python34\lib\json\encoder.py", line 192, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Python34\lib\json\encoder.py", line 250, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Python34\lib\json\encoder.py", line 173, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <Mars "Mars" at 0x000000000312DB00> is not JSON serializable
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 48, in def_planet
+    update.message.reply_text(planet_name)
+  File "C:\Python34\lib\site-packages\telegram\message.py", line 421, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 82, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 266, in post
+    data = json.dumps(data)
+  File "C:\Python34\lib\json\__init__.py", line 230, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Python34\lib\json\encoder.py", line 192, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Python34\lib\json\encoder.py", line 250, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Python34\lib\json\encoder.py", line 173, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <Mars "Mars" at 0x000000000312DB00> is not JSON serializable
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 48, in def_planet
+    update.message.reply_text(planet_name)
+  File "C:\Python34\lib\site-packages\telegram\message.py", line 421, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 82, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 266, in post
+    data = json.dumps(data)
+  File "C:\Python34\lib\json\__init__.py", line 230, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Python34\lib\json\encoder.py", line 192, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Python34\lib\json\encoder.py", line 250, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Python34\lib\json\encoder.py", line 173, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <class 'ephem.Mars'> is not JSON serializable
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 48, in def_planet
+    update.message.reply_text(planet_name)
+  File "C:\Python34\lib\site-packages\telegram\message.py", line 421, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 82, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 266, in post
+    data = json.dumps(data)
+  File "C:\Python34\lib\json\__init__.py", line 230, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\Python34\lib\json\encoder.py", line 192, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Python34\lib\json\encoder.py", line 250, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Python34\lib\json\encoder.py", line 173, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: <class 'ephem.Mars'> is not JSON serializable
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 51, in def_planet
+    print(answer)
+NameError: name 'answer' is not defined
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - âûôâ
+root - INFO - dsad
+root - INFO - dsa
+root - INFO - âûô
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - dsadsa
+telegram.ext.updater - WARNING - Exiting immediately!
+>>>>>>> e889ad18241858bda889423e18bb585b195321bd
