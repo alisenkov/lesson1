@@ -63,3 +63,49 @@ root - INFO - dsfds
 root - INFO - dsadsa
 telegram.ext.updater - ERROR - Error while getting Updates: Timed out
 telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - па
+root - INFO - 888о
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - авыавы
+root - INFO - выфв
+root - INFO - выф
+root - INFO - вы
+root - INFO - в
+root - INFO - в
+root - INFO - в
+root - INFO - cnfhn
+root - INFO - старт
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - planet
+root - INFO - dsa
+root - INFO - dada
+root - INFO - dsa
+root - INFO - dsa
+root - INFO - dsada
+root - INFO - 12312
+root - INFO - выф
+root - INFO - авы
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/usr/local/lib/python3.5/dist-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: def_planet() takes 1 positional argument but 2 were given
+root - INFO - planet
+root - INFO - dsa
+root - INFO - Mars
+root - INFO - dsad
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/usr/local/lib/python3.5/dist-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 29, in def_planet
+    print(ephem.constellation(planeta))
+NameError: name 'ephem' is not defined
